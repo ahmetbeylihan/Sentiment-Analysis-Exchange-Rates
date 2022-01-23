@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: “Ahmet”
   given-names: “Beylihan”
-title: "ESTIMATING THE GROWTH OR DEPRECIATION ON EXCHANGE RATES BY USING SENTIMENT ANALYSIS METHOD FROM SOCIAL MEDIA COMMENTS"
+title: "Estimating the growth or depreciation on exchange rates by using sentiment analysis method from social media comments"
 version: 1.0.0
 date-released: 2022-02-23
 url: "https://github.com/ahmetbeylihan/Sentiment-Analysis-Exchange-Rates"
